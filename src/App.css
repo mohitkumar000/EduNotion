@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -124,6 +123,3 @@ html, body {
     @apply rounded-lg bg-richblack-700 p-3 text-[16px] leading-[24px] text-richblack-5 shadow-[0_1px_0_0] shadow-white/50 placeholder:text-richblack-400 focus:outline-none;
   }
   
-=======
-/* write your css here */
->>>>>>> 9c6c4a75186a7d109c1e47e9228696944b7571d1
