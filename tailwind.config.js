@@ -2,7 +2,6 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-<<<<<<< HEAD
     fontFamily: {
       inter: ["Inter", "sans-serif"],
       "edu-sa": ["Edu SA Beginner", "cursive"],
@@ -134,9 +133,3 @@ module.exports = {
   },
   plugins: [],
 };
-=======
-    extend: {},
-  },
-  plugins: [],
-};
->>>>>>> 9c6c4a75186a7d109c1e47e9228696944b7571d1
